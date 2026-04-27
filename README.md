@@ -10,6 +10,10 @@ Este projeto foi desenvolvido como prática de análise de dados, com o objetivo
 
 ![Dashboard do Brasileirão](images/dashboard-geral.png)
 
+## Preview com filtro aplicado
+
+![Dashboard do Brasileirão - 2024](images/dashboard-2024.png)
+
 ## Objetivos do projeto
 
 - organizar e tratar uma base de dados esportiva
