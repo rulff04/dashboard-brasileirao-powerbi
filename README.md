@@ -57,17 +57,19 @@ Com a visão histórica completa, foi possível identificar alguns padrões inte
 * O **Flamengo** se destaca em gols marcados, mostrando forte volume ofensivo
 * Equipes como **Corinthians**, **Internacional** e **São Paulo** apresentam boa relação entre pontos e gols, sugerindo maior eficiência competitiva
 
+````md
 ## Estrutura do repositório
 
+```text
 dashboard-brasileirao-powerbi/
-│
 ├── README.md
 ├── dashboard/
 │   └── Analise_Brasileirao.pbix
 ├── data/
 │   └── brasileirao.xlsx
 └── images/
-└── dashboard-geral.png
+    └── dashboard-geral.png
+````
 
 ## Como visualizar
 
